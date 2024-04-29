@@ -7,7 +7,7 @@
 
 
 import mysql.connector as mc
-con_obj = mc.connect(host="localhost",port='3306', user="root", passwd="khushivyas2407")
+con_obj = mc.connect(host="localhost",port='3306', user="root", passwd="12345678")
 print(con_obj)
 
 cur_obj = con_obj.cursor()
