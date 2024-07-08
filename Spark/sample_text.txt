@@ -1,0 +1,5 @@
+Hello, Spark!
+This is a simple text file used for demonstrating PySpark.
+It contains several lines of text.
+We will read this file into an RDD.
+PySpark is fun to learn!
